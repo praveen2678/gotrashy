@@ -172,7 +172,7 @@ box-shadow: -3px 0px 13px 0px rgba(107,107,107,1);}
 .login_wp h4{ color:#fff; font-size:40px;}
 .login_wp p{ color:#fff; font-size:20px;}
 .login_txt{ padding-right:30px;}
-.login_form{ background:url(../images/login_bg.png); padding:30px; border-radius:3px; margin-bottom:40px;font-size: 20px;}
+.login_form{ background:url(../images/login_bg.png); padding:30px; border-radius:3px; margin-bottom:40px;font-size: 19px;}
 .login_form h4{ font-size:28px; color:#1c707c; padding:0 10px 20px; text-align:center; border-bottom:1px solid #59c2d1; margin-top:0;}
 .login_form form{ padding:15px 0;}
 .login_form form label{ color:#525252; font-size:19px; font-weight:normal;}
